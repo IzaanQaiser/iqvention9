@@ -34,7 +34,7 @@ export default function Home() {
   const navItems = ['Home', 'Accomplishments', 'Services', 'Testimonials', 'Packages', 'FAQ', 'Contact']
 
   const accomplishments = [
-    { number: '50+', text: 'Happy Customers', description: 'Satisfied clients who have seen real results from our services.' },
+    { number: '50+', text: 'Happy Customers', description: 'Satisfied clients who have seen real results from our services :)' },
     { number: '200+', text: 'Projects Completed', description: 'Successfully delivered projects across various industries.' },
     { number: '5+', text: 'Years of Excellence', description: 'Consistently providing top-notch digital solutions since our inception.' },
     { number: '20+', text: 'Expert Team Members', description: 'Skilled professionals dedicated to bringing your vision to life.' },
